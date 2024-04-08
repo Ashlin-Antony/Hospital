@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Amala Hospital",
+      "patientCount": 150,
+      "location": "Amala"
+    },
+    {
+      "name": "Royal Hospital",
+      "patientCount": 120,
+      "location": "Kunnamkulam"
+    },
+    {
+      "name": "Unity Hospital",
+      "patientCount": 200,
+      "location": "Choondal"
+    },
+    {
+      "name": "St.joseph Hospital",
+      "patientCount": 100,
+      "location": "Mattom"
+    },
+    {
+      "name": "Daya Hospital",
+      "patientCount": 240,
+      "location": "Chavakkad"
+    }
+  ]
